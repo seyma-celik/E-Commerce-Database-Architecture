@@ -19,4 +19,4 @@ Bu proje, uçtan uca bir e-ticaret veritabanı mimarisinin sıfırdan tasarımı
 6. `sepet` (Terk edilmiş sepet analizi için gölge tablo)
 
 ---
-*Geliştirici: [Senin Adın] - SQL Server (T-SQL) kullanılarak geliştirilmiştir.*
+SQL Server (T-SQL) kullanılarak geliştirilmiştir.*
